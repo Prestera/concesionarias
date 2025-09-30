@@ -100,4 +100,4 @@ Id: 1 Marca: Toyota, Modelo: Corolla, Año: 2022, Estado: Nuevo
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado por **Hernán Prestea** como práctica de Programación en Python y POO.  
+Proyecto desarrollado por **Hernán Prestera** como práctica de Programación en Python y POO.  
