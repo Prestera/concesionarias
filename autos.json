@@ -1,0 +1,74 @@
+[
+    {
+        "id": 7,
+        "concesionaria": "Concesionaria Rivera ",
+        "marca": "fiat",
+        "modelo": "palio",
+        "año": 2013,
+        "estado": false
+    },
+    {
+        "id": 1,
+        "concesionaria": "Concesionaria Bolita ",
+        "marca": "ford",
+        "modelo": "Focus",
+        "año": 2019,
+        "estado": false
+    },
+    {
+        "id": 8,
+        "concesionaria": "Concesionaria León ",
+        "marca": "peugeot",
+        "modelo": "308",
+        "año": 2021,
+        "estado": false
+    },
+    {
+        "id": 4,
+        "concesionaria": "Concesionaria Ginza ",
+        "marca": "toyota",
+        "modelo": "Corolla",
+        "año": 2023,
+        "estado": false
+    },
+    {
+        "id": 9,
+        "concesionaria": "Concesionaria Ginza ",
+        "marca": "toyota",
+        "modelo": "Corolla",
+        "año": 2025,
+        "estado": true
+    },
+    {
+        "id": 3,
+        "concesionaria": "Concesionaria Ginza ",
+        "marca": "toyota",
+        "modelo": "accord",
+        "año": 2024,
+        "estado": false
+    },
+    {
+        "id": 5,
+        "concesionaria": "Concesionaria Rombo",
+        "marca": "renault",
+        "modelo": "Captur",
+        "año": 2025,
+        "estado": true
+    },
+    {
+        "id": 6,
+        "concesionaria": "Concesionaria Rombo",
+        "marca": "renault",
+        "modelo": "Sandero",
+        "año": 2009,
+        "estado": false
+    },
+    {
+        "id": 2,
+        "concesionaria": "Concesionaria Marseille",
+        "marca": "citroen",
+        "modelo": "c4",
+        "año": 2025,
+        "estado": true
+    }
+]
